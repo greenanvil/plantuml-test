@@ -1,0 +1,8 @@
+@startuml
+
+caption figure 1
+
+Alice -> Bob: Authentication Request
+Bob --> Alice: Authentication Response
+
+@enduml
